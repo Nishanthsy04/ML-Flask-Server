@@ -1,7 +1,10 @@
 from flask import render_template, Flask, request
+from flask_cors import CORS
 import pickle
 
 app = Flask(__name__)
+CORS(app, origins="*")
+
 models = {}
 
 # Load models for each city
