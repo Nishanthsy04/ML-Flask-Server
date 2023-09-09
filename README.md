@@ -25,13 +25,13 @@ python app.py
 Access the application in your web browser at http://localhost:5000.
 
 ## Usage
-Open the web application in your browser.
+    Open the web application in your browser.
     Select the desired Month, Year, and Subdivision for which you want to predict rainfall.
     Click the "Predict" button to get the rainfall prediction for the selected criteria.
 
-##Project Structure
+## Project Structure
 
-app.py: The Flask application that serves as the backend.
+    app.py: The Flask application that serves as the backend.
     models/: Directory containing trained machine learning models for each subdivision.
     rainfall_data.csv: Input data file containing historical rainfall data.
     templates/: HTML templates for rendering web pages.
