@@ -39,7 +39,6 @@ Access the application in your web browser at http://localhost:5000.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
     Fork the repository.
     Create a new branch for your feature or bug fix.
