@@ -3,34 +3,20 @@
 ML-Flask-Server is a web application built with Flask that provides rainfall prediction for various Indian subdivisions using machine learning models.
 
 ## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Getting Started
 
 ## Prerequisites
 - Python (3.6 or higher)
 - Pip (Python package manager)
 
-## Installation
- Clone the repository:
-   ```sh
-   git clone https://github.com/Nishanthsy04/ML-Flask-Server.git
-   cd ML-Flask-Server
 
-    Create a virtual environment (optional but recommended):
 
-    sh
 
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-#Install project dependencies:
+## Install project dependencies:
 
 sh
 
@@ -58,7 +44,7 @@ sh
     templates/: HTML templates for rendering web pages.
     static/: Static files (CSS, JavaScript, etc.) for the web application.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
